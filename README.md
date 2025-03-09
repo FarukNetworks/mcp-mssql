@@ -49,3 +49,6 @@
      }
    }
    ```
+
+6. **Select AGENT mode in your editor and check connection**
+- you can prompt the Cursor with something like this "Use MSSQL MCP server to check connection" 
